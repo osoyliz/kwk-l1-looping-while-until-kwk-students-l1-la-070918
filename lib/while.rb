@@ -5,8 +5,7 @@ def using_while
 	levitation_force+=1
 	puts "your levitation force is now at #{levitation}."
 	end
-	#your code here
+	puts "you are now leavition"
 end
-
 using_while
 
